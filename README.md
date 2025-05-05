@@ -103,6 +103,12 @@ Manage your favorite dishes, create your own recipes, and explore mouthwatering 
 
 >https://go.screenpal.com/watch/cTfuhCnQhVA
 
+## 📸 Images
+
+![Image](https://github.com/user-attachments/assets/44a2e73c-4fe0-475c-ba7d-53e73cf6c399)
+![Image](https://github.com/user-attachments/assets/64238405-d775-47c6-812e-02d297e46882)
+![Image](https://github.com/user-attachments/assets/dbb01458-d985-4e67-8acf-d699f18d8249)
+
 ---
 
 ## 💡 Future Improvements
