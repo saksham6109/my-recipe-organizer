@@ -126,6 +126,11 @@ Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
 
 ---
+## 🧑‍💻 Author
+
+Created by Saksham Mishra(https://github.com/saksham6109)
+📧 Contact: saksham1082001@gmail.com
+
 
 ## 🧡 Thank You!
 
