@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS generated files
+*.swp
+*.swo
+*.bak
+
+# Tailwind JIT cache (optional)
+.tailwind-cache/
+
+# Testing / Coverage
+coverage/
+*.lcov
+
+# Parcel cache
+.cache/
+
+# Mac system files
+*.DS_Store
+
+# Optional: lock files (only if using a specific package manager)
+# Uncomment only one of the following based on your usage
+
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
